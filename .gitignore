@@ -1,0 +1,8 @@
+# Ignore ALL folders (directories)
+*/
+
+# But keep files in the repo root (so your .py scripts still track)
+!*/
+
+# Ignore all PDF files anywhere
+*.pdf
